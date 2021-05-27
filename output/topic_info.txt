@@ -1,0 +1,5 @@
+The perplexity score is: -5.8350221816574654, The coherence score is: 0.2832362702880297
+
+The 5 Topics are summarised as follows:
+
+[(0, '0.031*"last" + 0.031*"little" + 0.030*"day" + 0.026*"love" + 0.026*"place" + 0.025*"good" + 0.021*"letter" + 0.018*"next" + 0.018*"one" + 0.017*"much"'), (1, '0.039*"day" + 0.033*"trench" + 0.032*"night" + 0.025*"time" + 0.023*"line" + 0.021*"gun" + 0.019*"man" + 0.018*"shell" + 0.017*"fire" + 0.015*"german"'), (2, '0.057*"time" + 0.045*"good" + 0.032*"thing" + 0.022*"letter" + 0.019*"day" + 0.017*"many" + 0.017*"long" + 0.016*"man" + 0.016*"fellow" + 0.015*"line"'), (3, '0.042*"letter" + 0.032*"week" + 0.029*"great" + 0.024*"much" + 0.024*"time" + 0.023*"officer" + 0.023*"old" + 0.021*"hope" + 0.020*"month" + 0.019*"line"'), (4, '0.038*"morning" + 0.033*"time" + 0.029*"first" + 0.021*"top" + 0.020*"weather" + 0.017*"wife" + 0.017*"section" + 0.017*"field" + 0.016*"german" + 0.016*"day"')]
